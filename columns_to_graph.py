@@ -64,8 +64,6 @@ def visual_graph(G):
     
     edges = G.edges()
     
-    ########Use continous color from matplt
-
     for x,y in edges:
        if G[x][y]['weight'] > .7:
            G[x][y]['color'] = 'purple'
