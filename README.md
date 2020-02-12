@@ -2,8 +2,7 @@
 
 2 Small programs. 
 
-1) Input pandas dataframe. correlational matrix. adjacency matrix. networkx graph. 
-   Include correlation and pval threshold to remove weak edges. 
+1) Input pandas dataframe, and desired correlation/pval threshold. Transfer to correlational matrix. To adjacency matrix. Use thresholds to remove weak edges. Output networkx graph. 
 
 
 
