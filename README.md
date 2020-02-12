@@ -6,5 +6,5 @@
 
 
 
-2) Graph output of matplotlib visual and GEPHI file.
+2) Graph output of matplotlib visual and option to create gexf file to view graph in GEPHI.
 
